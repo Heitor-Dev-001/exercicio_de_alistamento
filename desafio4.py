@@ -36,7 +36,7 @@ else:
   print(' \033[31mVocê não precisa se alistar junto as forças armadas ! \033[m') #Alterar a resposta para a cor vermelha
   print('Fim do programa')
   
-
+#Lógica do programa (Alistamento)
 atual = date.today().year
 print('-=-' *20)
 nasc = int (input ('Ano de nascimento:'))
