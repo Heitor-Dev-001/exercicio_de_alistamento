@@ -5,12 +5,10 @@
 #Se é a hora de se alistar
 #Se já passou do tempo de alistamento
 
-
 #Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
+
 from datetime import date
-
-
 #Entrada do usuário
 print('''Selecione seu sexo conforme as opções abaixo: 
 [ 1 ] - Feminino 
