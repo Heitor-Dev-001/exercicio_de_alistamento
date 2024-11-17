@@ -53,7 +53,7 @@ elif idade > 18:
   ano = atual - saldo
   print('Seu alistamento foi em: {}'.format(ano))
 
-print('-=-' * 20)
+print('-=-' * 20) #Inseri separadores, serve apenas para o usuário, é algo visual para não ficar tudo junto, bagunçado
 
 
 
